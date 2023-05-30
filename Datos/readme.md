@@ -1,7 +1,10 @@
 
-|Área Emisora|NombreSGMP|Subgerencia General de Medios de Pago|
-|:----|:----|:----|
-|SGR|Subgerencia General de RegulaciónGAES|Gerencia de Auditoría Externa de Sistemas|
+|Área Emisora|Nombre|
+|:----|:----|
+|SGMP|Subgerencia General de Medios de Pago|
+|SGR|Subgerencia General de Regulación|
+|GAES|Gerencia de Auditoría Externa de Sistemas|
+
 
 |Área|Archivo|Nombre Original|
 |:----|:----|:----|

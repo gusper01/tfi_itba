@@ -1,6 +1,6 @@
 Listado de regulaciones en formato PDF y guías de supervisión en formato HTML publicadas a la fecha de la investigación.
 (octubre 2022)
-Se toman las regulaciones, lineamientos y guías de supervisión emitidos por 3 áreas que a su vez están conformadas por unidades organizativas con distintos perfiles y experticia. A los efectos de una mejor compresión respecto a la composición del cuerpo normativo que posee el BCRA se invita acceder [(BCRA Ordenamiento y resúmenes)](https://www.bcra.gob.ar/SistemasFinancierosYdePagos/Ordenamiento_y_resumenes.asp)
+Se toman las regulaciones, lineamientos y guías de supervisión emitidos por 3 áreas que a su vez están conformadas por unidades organizativas con distintos perfiles y experticia. A los efectos de una mejor compresión respecto a la composición del cuerpo normativo que posee el BCRA se invita acceder [(BCRA Ordenamientos y resúmenes)](https://www.bcra.gob.ar/SistemasFinancierosYdePagos/Ordenamiento_y_resumenes.asp)
 
 
 |Área Emisora|Nombre|

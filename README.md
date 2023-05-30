@@ -1,6 +1,7 @@
-# ITBA Especialización en Ciencia de Datos - Trabajo Final Integrador
+# ITBA Especialización en Ciencia de Datos - TFI
 ## Análisis de Texto de Regulaciones Financieras utilizando NLP y ML  
 
+![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
 Este repositorio contiene los datasets, las notebooks con el código, los archivos de datos que componen el trabajo Final Integrador cuyo objetivo es realizar una investigación utilizando técnicas de procesamiento de lenguaje natural (NLP) y aprendizaje automático (ML) para analizar un grupo de regulaciones, comunicaciones y publicaciones del BCRA que tratan o contienen referencias sobre medios de pago, tecnología y ciberseguridad. El propósito es evaluar la posibilidad de incorporar estas herramientas para automatizar la identificación de gaps regulatorios y/o la revisión de las regulaciones y publicaciones. 
 Se toman un grupo de las regulaciones y comunicaciones que el Banco Central de la República Argentina [(BCRA)](https://www.bcra.gob.ar/) publica en su sitio web y que es de libre acceso. Se realizó una selección de un grupo de regulaciones y publicaciones que se refieren a temas de tecnología y ciberseguridad. 
 
@@ -19,5 +20,14 @@ Este proyecto sigue un marco de trabajo compuesto en fases, que abarcan desde el
 | [Datos](./Datos) | Archivos Originales descargados desde el sitio del BCRA |
 | [Notebooks](./Notebooks) | Notebooks Colab con el codigo fuente del webscraping, las pruebas de Librerias de NLP y el análisis  |
 | [Fuentes](./Fuentes) | Archivos necesarios para realizar las pruebas con los modelos de [(Stanza)](https://stanfordnlp.github.io/stanza/models.html) |
+
+## Algunas Referencias 📌
+* [Spacy](https://spacy.io/)
+* [Nltk](https://www.nltk.org/)) 
+* [Google_Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb?hl=es)
+* 
+
+## Autor ✒️
+**Gustavo Pereyra** 2022 - [gusper01](https://github.com/gusper01)😊
 
 ¡Gracias por tu interés en este proyecto!

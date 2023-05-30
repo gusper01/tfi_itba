@@ -10,9 +10,10 @@ Este proyecto sigue un marco de trabajo en diversas fases, que abarcan desde el 
 # Contenido
 | Carpeta              | Contenido |
 | -------------------- | --------- |
-| [datasets](./datasets) | Datasetes generados con Python y Pandas |
-| [Fuentes](./fuentes) | Archivos Originales descargados desde el sitio del BCRA |
+| [Datasets](./Datasets) | Datasetes generados con Python y Pandas |
+| [Datos](./Datos) | Archivos Originales descargados desde el sitio del BCRA |
 | [Notebooks](./Notebooks) | Notebooks Colab con el codigo fuente del webscraping, las pruebas de Librerias de NLP y el análisis  |
+| [Fuentes](./Fuentes) | Archivos necesarios para realizar las pruebas con los modelos de [(Stanza)](https://stanfordnlp.github.io/stanza/models.html) |
 
 * Selección de Documentos: Seleccionar textos ordenados, guías de supervisión y comunicaciones relevantes para el análisis.
 *Preprocesamiento: Realizar la extracción y limpieza de texto, creación del corpus y aplicar técnicas de tokenización, stemming y lematización.

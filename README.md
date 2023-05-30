@@ -26,7 +26,7 @@ Este proyecto sigue un marco de trabajo compuesto en fases, que abarcan desde el
 * [Spacy](https://spacy.io/)
 * [Nltk](https://www.nltk.org/)
 * [Google_Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb?hl=es)
-* [Craig Lewis & Steven Young, 2019, “Fad or future? Automated analysis of financial text and its implications for corporate   reportingGoogle_Colaboratory](https://www.tandfonline.com/doi/epdf/10.1080/00014788.2019.1611730?needAccess=true&role=button)
+* [Craig Lewis & Steven Young, 2019, “Fad or future? Automated analysis of financial text and its implications for corporate reporting](https://www.tandfonline.com/doi/epdf/10.1080/00014788.2019.1611730?needAccess=true&role=button)
 * [Computational Data Sciences and the Regulation of Banking and Financial Services](https://www.researchgate.net/publication/315511636_Computational_Data_Sciences_and_the_Regulation_of_Banking_and_Financial_Services)
 
 ## Autor ✒️

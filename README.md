@@ -26,7 +26,7 @@ Este proyecto sigue un marco de trabajo compuesto en fases, que abarcan desde el
 * [Spacy](https://spacy.io/)
 * [Nltk](https://www.nltk.org/)) 
 * [Google_Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb?hl=es)
-* 
+* [Craig Lewis & Steven Young, 2019, “Fad or future? Automated analysis of financial text and its implications for corporate   reportingGoogle_Colaboratory](https://www.tandfonline.com/doi/epdf/10.1080/00014788.2019.1611730?needAccess=true&role=button)
 
 ## Autor ✒️
 **Gustavo Pereyra** 2022 - [gusper01](https://github.com/gusper01)😊

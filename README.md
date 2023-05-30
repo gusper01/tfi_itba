@@ -1,4 +1,3 @@
-# ITBA TFI 
 ## ITBA Especialización en Ciencia de Datos - Trabajo Final Integrador
 ## Análisis de Texto de Regulaciones Financieras utilizando NLP y ML  
 

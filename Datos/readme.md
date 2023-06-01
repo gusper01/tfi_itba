@@ -24,10 +24,10 @@ Se toman las regulaciones, lineamientos y guías de supervisión emitidos por 3 
 |SGMP|[t-SNP-tr](https://www.bcra.gob.ar/Pdfs/Texord/t-SNP-tr.pdf)|SISTEMA NACIONAL DE PAGOS TRANSFERENCIAS|
 |SGMP|[t-snp-spd](https://www.bcra.gob.ar/Pdfs/Texord/t-snp-spd.pdf)|SISTEMA NACIONAL DE PAGOS SERVICIOS DE PAGO|
 |SGMP|[t-snp-mep](https://www.bcra.gob.ar/Pdfs/Texord/t-snp-mep.pdf)|SISTEMA NACIONAL DE PAGOS - MEDIO ELECTRONICO DE PAGOS MEP|
-|GAES|ciberseg|GUIAS DE SUPERVISION PARA LA CIBERSEGURIDAD Y CIBERRESILIENCIA|
-|GAES|continuidad|GUIA DE SUPERVISION DE GESTION DE CONTINUIDAD DEL NEGOCIO|
-|GAES|gestionIt|GUIA DE SUPERVISION DE GESTION DE TECNOLOGIA INFORMATICA|
-|GAES|idDigital|GUIAS DE SUPERVISION IDENTIFICACION DIGITAL EN ENTIDADES FINANCIERAS|
-|GAES|Imfs|GUIA DE SUPERVISION DE INFRAESTRUCTURAS DEL MERCADO FINANCIERO IMF|
-|GAES|Dlp|GUIA DE SUPERVISION DE PREVENCION DE PERDIDA DE INFORMACION DLP|
+|GAES|[ciberseg](https://www.bcra.gob.ar/SistemasFinancierosYdePagos/CiberSeguridad-y-Ciberresilencia.asp)|GUIAS DE SUPERVISION PARA LA CIBERSEGURIDAD Y CIBERRESILIENCIA|
+|GAES|[continuidad](https://www.bcra.gob.ar/SistemasFinancierosYdePagos/gestion-de-continuidad-del-negocio.asp)|GUIA DE SUPERVISION DE GESTION DE CONTINUIDAD DEL NEGOCIO|
+|GAES|[gestionIt](https://www.bcra.gob.ar/SistemasFinancierosYdePagos/gestion-de-tecnologia-informatica.asp)|GUIA DE SUPERVISION DE GESTION DE TECNOLOGIA INFORMATICA|
+|GAES|[idDigital](https://www.bcra.gob.ar/SistemasFinancierosYdePagos/Identificaci%C3%B3n-digital.asp)|GUIAS DE SUPERVISION IDENTIFICACION DIGITAL EN ENTIDADES FINANCIERAS|
+|GAES|[Imfs](https://www.bcra.gob.ar/SistemasFinancierosYdePagos/infraestructuras-del-mercado-financiero.asp)|GUIA DE SUPERVISION DE INFRAESTRUCTURAS DEL MERCADO FINANCIERO IMF|
+|GAES|[Dlp](https://www.bcra.gob.ar/SistemasFinancierosYdePagos/prevencion-de-perdida-de-informacion.asp)|GUIA DE SUPERVISION DE PREVENCION DE PERDIDA DE INFORMACION DLP|
 
